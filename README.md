@@ -6,6 +6,11 @@ An illustration/diagram of Techtionary MVP. This includes an end-to-end map for 
 
 <img src="./Techtionary.drawio.svg" >
 
+## Mockup
+A simple view of what the application would look like during first iteration.
+
+<img src="./Mockup.drawio.svg" >
+
 ## Authors/Team
 1. Tomilola Oluwafemi
     - Full Stack Development
