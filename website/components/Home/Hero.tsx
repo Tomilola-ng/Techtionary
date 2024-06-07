@@ -8,10 +8,12 @@ export default function Hero() {
         <Image
           src={bgImage}
           alt="bg-image tech table"
-          className="w-full h-full"
+          className="w-full h-full brightness-50"
         />
       </div>
-      <h1 className="text-center text-4xl font-bold z-[1]">
+      <h1 className="text-center text-white text-4xl font-bold z-[1]">
+        <span className="text-primary block">Techtionary</span>
+        <br />
         Find definitions to every strange technical words.
       </h1>
     </section>
