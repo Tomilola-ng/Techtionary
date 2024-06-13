@@ -12,8 +12,6 @@ export default function Hero() {
         />
       </div>
       <h1 className="text-center text-white text-4xl font-bold z-[1]">
-        <span className="text-primary block">Techtionary</span>
-        <br />
         Find definitions to every strange technical words.
       </h1>
     </section>
